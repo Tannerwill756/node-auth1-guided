@@ -14,3 +14,11 @@ Guided project for **Node Auth 1** Module.
 - [ ] type `npm run server` to start the API.
 
 Please follow along as the instructor adds authentication to the API.
+
+## AUTH WORKFLOW
+
+## SESSIONS & COOKIES
+
+- a `cookie` is a container (key/value) of data that travels between client and server.
+
+- a `session` is a way to store information about clients on the server.
